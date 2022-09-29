@@ -1,5 +1,5 @@
 import '@mdi/font/css/materialdesignicons.css'
-import 'vuetify/styles/main.sass'
+import 'vuetify/styles'
 import { createVuetify } from 'vuetify'
 import colors from 'vuetify/lib/util/colors'
 import type { UserModule } from '~/types'
